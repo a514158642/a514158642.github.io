@@ -1,0 +1,24 @@
+{
+  "name": "csj-web-tools",
+  "version": "0.0.1",
+  "description": "一款前端通用的工具函数集合",
+  "main": "index.js",
+  "bin": {
+    "csj-web-tools": "src/index.js"
+  },
+  "scripts": {
+    "demo": "http-server -p 8888"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a514158642/csj-web-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a514158642/csj-web-tools/issues"
+  },
+  "homepage": "https://github.com/a514158642/csj-web-tools#readme",
+  "dependencies": {}
+}
