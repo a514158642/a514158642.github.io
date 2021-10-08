@@ -1,6 +1,7 @@
 # 使用文档
 
 ## 引入csj-web-tools
+    目前仅输出ESM格式资源，CJS或IIFE格式后续逐步完善
 - node环境 或 自动化工程
 ```javascript
 import tools from 'csj-web-tools'
