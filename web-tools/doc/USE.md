@@ -7,8 +7,8 @@ import tools from 'csj-web-tools'
 ```
 - windows环境 或 浏览器环境
 ```javascript
-<script type="moudlue">
-  import tools from 'csj-web-tools'
+<script type="modlue">
+  import tools from "https://unpkg.com/csj-web-tools/src/index.js"
 </script>
 ```  
 
